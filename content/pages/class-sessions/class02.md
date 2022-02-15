@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Class Sessions
+parent_type: SupplementalResourceSection
 parent_uid: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
 title: Class 2 - The Organizing Framework Behind US Science Agencies
 uid: 4a2db112-f448-44e5-867d-89f63f8d6edb

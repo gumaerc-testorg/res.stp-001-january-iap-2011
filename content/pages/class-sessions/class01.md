@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Class Sessions
+parent_type: SupplementalResourceSection
 parent_uid: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
 title: Class 1 - Economic Drivers Behind Science and Technology Support
 uid: 57c0d960-8069-a4f1-94bc-961206d5e81c

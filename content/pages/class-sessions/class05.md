@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Class Sessions
+parent_type: SupplementalResourceSection
 parent_uid: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
 title: Class 5 - The Structure of an Energy Technology Revolution
 uid: 873b1536-353f-5841-acbe-cd07f6c6764b

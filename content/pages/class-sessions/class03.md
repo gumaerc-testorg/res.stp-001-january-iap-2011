@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Class Sessions
+parent_type: SupplementalResourceSection
 parent_uid: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
 title: Class 3 - The Organization of Innovation Systems at the Face-to-Face Level
 uid: 334dbbd0-40db-d2c7-5202-5f32fb26eb43

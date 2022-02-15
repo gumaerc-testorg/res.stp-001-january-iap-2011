@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Class Sessions
+parent_type: SupplementalResourceSection
 parent_uid: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
 title: Class 4 - The Competitiveness Challenge in Advanced Technologies and Services
 uid: 5d2be351-1959-d9f5-6f83-2b1c1c3a5a4a

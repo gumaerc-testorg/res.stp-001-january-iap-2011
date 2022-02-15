@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Class Sessions
 uid: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
 ---
