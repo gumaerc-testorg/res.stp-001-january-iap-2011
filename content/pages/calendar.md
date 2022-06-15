@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains a list of class sessions and a brief description
+  of each. '
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Calendar

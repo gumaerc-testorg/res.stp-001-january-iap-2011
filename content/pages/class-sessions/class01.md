@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section discusses the key elements governing science policy in
+  the United States. Lecture slides and a reading list are included. '
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Class Sessions
@@ -27,7 +29,7 @@ We will also briefly discuss at the end of the class the longstanding problem of
 Lecture Notes
 -------------
 
-The Drivers behind Science and Technology Support ([PDF](/resources/res-stp-001-science-policy-bootcamp-january-iap-2011/class-sessions/class01/MITRES_STP_001IAP11_lec01.pdf))
+The Drivers behind Science and Technology Support ({{% resource_link 90deb79e-985d-97ce-8770-f6cdb92ff2c8 "PDF" %}})
 
 Readings
 --------
@@ -40,7 +42,7 @@ Nelson, Richard R. _National Systems of Innovation_. New York, NY: Oxford Univer
 
 Solow, Robert M. [_Growth Theory, An Exposition_](http://nobelprize.org/nobel_prizes/economics/laureates/1987/solow-lecture.html). 5th ed. New York, NY: Oxford University Press, 2000, pp. ix-xxvi. ISBN: 9780195109030.
 
-Romer, Paul. "Endogenous Technological Change." _Journal of Political Economy_ 98, no. 5 (1990): 72-102. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF – 2.8MB](https://www.nber.org/papers/w3210))
+Romer, Paul. "Endogenous Technological Change." _Journal of Political Economy_ 98, no. 5 (1990): 72-102. ([PDF – 2.8MB](https://www.nber.org/papers/w3210))
 
 Jorgenson, Dale. "[U.S. Economic Growth in the Information Age](http://www.issues.org/18.1/jorgenson.html)." _Issues in Science and Technology_ 18, no. 1 (2001): 42.
 

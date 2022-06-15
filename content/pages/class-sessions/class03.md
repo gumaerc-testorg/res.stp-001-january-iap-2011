@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section discusses the innovation system and factors leading to
+  its success. Lecture slides and a reading list are included.   '
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Class Sessions
@@ -23,7 +25,7 @@ Class Three will be more informal and more student-led. We will note that althou
 Lecture Notes
 -------------
 
-The Organization of Innovation at the Personal, Face-To-Face Level ([PDF](/resources/res-stp-001-science-policy-bootcamp-january-iap-2011/class-sessions/class03/MITRES_STP_001IAP11_lec03.pdf))
+The Organization of Innovation at the Personal, Face-To-Face Level ({{% resource_link 94b1ff2d-3aab-86cd-7233-54c01feda5ae "PDF" %}})
 
 Readings
 --------
