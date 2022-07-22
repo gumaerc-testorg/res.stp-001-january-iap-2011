@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: 'This section discusses the competitiveness debate in the US, especially
+  in reference to the manufacturing sector. Lecture slides and a reading list are
+  included.   '
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Class Sessions
+parent_type: SupplementalResourceSection
 parent_uid: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
 title: Class 4 - The Competitiveness Challenge in Advanced Technologies and Services
 uid: 5d2be351-1959-d9f5-6f83-2b1c1c3a5a4a
@@ -22,14 +28,14 @@ The class will close by turning toward the services sector, noting the dominant 
 Lecture Notes
 -------------
 
-The Competitive Challenge in Advanced Production and Services ([PDF](/resources/res-stp-001-science-policy-bootcamp-january-iap-2011/class-sessions/class04/MITRES_STP_001IAP11_lec04.pdf))
+The Competitive Challenge in Advanced Production and Services ({{% resource_link a7f67093-8599-acbb-77f1-4e9cc64195dd "PDF" %}})
 
 Readings
 --------
 
 ### Required Reading
 
-Samuelson, Paul A. "Where Ricardo and Mill Rebut and Confirm Arguments of Mainstream Economists Supporting Globalization." _Journal of Economic Perspectives_ 18, no. 3 (2004): 135-137, 144-145. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pubs.aeaweb.org/doi/pdf/10.1257/0895330042162403))
+Samuelson, Paul A. "Where Ricardo and Mill Rebut and Confirm Arguments of Mainstream Economists Supporting Globalization." _Journal of Economic Perspectives_ 18, no. 3 (2004): 135-137, 144-145. ([PDF](https://pubs.aeaweb.org/doi/pdf/10.1257/0895330042162403))
 
 ### Other Readings for Class Discussions
 
@@ -37,7 +43,7 @@ Hughes, Kent. _Building the Next American Century: The Past and Future of Americ
 
 Berger, Suzanne. _How We Compete: What Companies Around the World Are Doing to Make it in Today's Global Economy_. New York, NY: Crown Business, 2005, pp. 251-277. ISBN: 9780385513593. \[Preview with [Google Books](http://books.google.com/books?id=8CB_qViEJTwC&printsec=frontcover&dq=suzanne+berger+how+we+compete#v=onepage&q=&f=false)\]
 
-Fong, Glenn R. "Follower at the Frontier: International Competition and Japanese Industrial Policy." _International Studies Quarterly_ 42, no. 2 (1998): 339-366. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://my.t-bird.edu/files/personalfiles/134802/ISQ.pdf))
+Fong, Glenn R. "Follower at the Frontier: International Competition and Japanese Industrial Policy." _International Studies Quarterly_ 42, no. 2 (1998): 339-366. ([PDF](http://my.t-bird.edu/files/personalfiles/134802/ISQ.pdf))
 
 Kim, Linsu. _Imitation to Innovation; The Dynamics of Korea's Technological Learning_. Boston, MA: Harvard Business School Press, 1997, pp. 192-213, 234-243.
 

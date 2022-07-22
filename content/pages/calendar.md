@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains a list of class sessions and a brief description
+  of each. '
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Calendar
 uid: 4a8a5bdd-6434-e939-fe8a-33279cf7586e
 ---

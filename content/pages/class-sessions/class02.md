@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: 'This section discusses the framework of US science and technology agencies.
+  Lecture slides and a reading list are included.   '
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Class Sessions
+parent_type: SupplementalResourceSection
 parent_uid: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
 title: Class 2 - The Organizing Framework Behind US Science Agencies
 uid: 4a2db112-f448-44e5-867d-89f63f8d6edb
@@ -29,7 +34,7 @@ The review will focus on the overall organizational structure and as part of tha
 Lecture Notes
 -------------
 
-Innovation at the Institutional Level: The Organization of Federal Science Support ([PDF – 1.3MB](/resources/res-stp-001-science-policy-bootcamp-january-iap-2011/class-sessions/class02/MITRES_STP_001IAP11_lec02.pdf))
+Innovation at the Institutional Level: The Organization of Federal Science Support ({{% resource_link b0ea2fbb-2646-f128-6d8e-2ab5c98de237 "PDF – 1.3MB" %}})
 
 Readings
 --------

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: 'This section discusses the importance of energy innovation. Lecture
+  slides and a reading list are included.   '
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Class Sessions
+parent_type: SupplementalResourceSection
 parent_uid: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
 title: Class 5 - The Structure of an Energy Technology Revolution
 uid: 873b1536-353f-5841-acbe-cd07f6c6764b
@@ -22,7 +27,7 @@ Given the depth of the need for new energy technology, a supply side program arg
 Lecture Notes
 -------------
 
-The Challenge of Energy Technology ([PDF]({{< baseurl >}}/resources/mitres_stp_001iap11_lec05))
+The Challenge of Energy Technology ({{% resource_link fadc030a-6b8f-4dd2-443e-d607baf6d590 "PDF" %}})
 
 Readings
 --------
@@ -35,7 +40,7 @@ Bonvillian, William B., and Charles Weiss. "Taking Covered Wagons East: A New In
 
 Socolow, Robert H., and Stephen W. Pacala. "A Plan to Keep Carbon in Check." _Scientific American_ 295, no. 3 (2006): 50-57.
 
-Deutch, John M. "What Should the Government Do to Encourage Technical Change in the Energy Sector?" Report No. 120, Joint Program on the Science and Policy of Global Change, MIT, May 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt120.pdf))
+Deutch, John M. "What Should the Government Do to Encourage Technical Change in the Energy Sector?" Report No. 120, Joint Program on the Science and Policy of Global Change, MIT, May 2005. ([PDF](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt120.pdf))
 
 "Statement of Deputy Undersecretary of Defense for Installations and Environment Dr. Dorothy Robyn before the Senate Homeland Security and Governmental Affairs Committee." January 27, 2010.
 
