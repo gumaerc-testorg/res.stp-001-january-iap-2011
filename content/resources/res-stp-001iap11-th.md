@@ -11,6 +11,7 @@ image_metadata:
   credit: ''
   image-alt: Image of the US Capitol Building, Washington DC.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-stp-001iap11-th.jpg

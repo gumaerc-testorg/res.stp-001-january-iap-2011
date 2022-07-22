@@ -4,6 +4,7 @@ description: This resource contains information related to economic competitiven
 file: /courses/res-stp-001-science-policy-bootcamp-january-iap-2011/a7f670938599acbb77f14e9cc64195dd_MITRES_STP_001IAP11_lec04.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class 4 - The Competitiveness Challenge in Advanced Technologies and
   Services
@@ -14,4 +15,3 @@ title: MITRES_STP_001IAP11_lec04.pdf
 uid: a7f67093-8599-acbb-77f1-4e9cc64195dd
 ---
 This resource contains information related to economic competitiveness.
-
