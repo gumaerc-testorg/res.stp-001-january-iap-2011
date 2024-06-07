@@ -2,6 +2,7 @@
 content_type: page
 description: 'This section discusses the key elements governing science policy in
   the United States. Lecture slides and a reading list are included. '
+draft: false
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Class Sessions
@@ -10,9 +11,7 @@ parent_uid: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
 title: Class 1 - Economic Drivers Behind Science and Technology Support
 uid: 57c0d960-8069-a4f1-94bc-961206d5e81c
 ---
-
-Session Overview
-----------------
+## Session Overview
 
 ### Objectives
 
@@ -26,26 +25,24 @@ The class will also discuss the innovation system, with a brief summary of indir
 
 We will also briefly discuss at the end of the class the longstanding problem of the "valley of death", i.e., of moving technology from the research stage through the development stage, and discuss the pipeline (linear) model verses dynamic model for research and development. More recent attempts for crossing the "valley of death" will be briefly noted, including the biotech model, NIST's Advanced Technology Program (ATP), the Small Business Innovation and Research Program (SBIR), NIST's state-based Manufacturing Extension Program (MEP), and the CIA's In-Q-Tel.
 
-Lecture Notes
--------------
+## Lecture Notes
 
-The Drivers behind Science and Technology Support ({{% resource_link 90deb79e-985d-97ce-8770-f6cdb92ff2c8 "PDF" %}})
+The Drivers behind Science and Technology Support ({{% resource_link "90deb79e-985d-97ce-8770-f6cdb92ff2c8" "PDF" %}})
 
-Readings
---------
+## Readings
 
 ### Required Reading
 
-Nelson, Richard R. _National Systems of Innovation_. New York, NY: Oxford University Press, 1993, pp. 3-21, 505-523. ISBN: 9780195076172. \[Preview with [Google Books](http://books.google.com/books?id=YFDGjgxc2CYC&pg=PA230&lpg=PA230&dq=richard+nelson+national+systems+of+innovation&source=web&ots=On6qon2BPP&sig=DP0rFEN28x2ar2-ZpmDZJR3EuvY&hl=en&sa=X&oi=book_result&resnum=1&ct=result)\]
+Nelson, Richard R. *National Systems of Innovation*. New York, NY: Oxford University Press, 1993, pp. 3-21, 505-523. ISBN: 9780195076172. \[Preview with [Google Books](http://books.google.com/books?id=YFDGjgxc2CYC&pg=PA230&lpg=PA230&dq=richard+nelson+national+systems+of+innovation&source=web&ots=On6qon2BPP&sig=DP0rFEN28x2ar2-ZpmDZJR3EuvY&hl=en&sa=X&oi=book_result&resnum=1&ct=result)\]
 
 ### Other Readings for Discussion
 
-Solow, Robert M. [_Growth Theory, An Exposition_](http://nobelprize.org/nobel_prizes/economics/laureates/1987/solow-lecture.html). 5th ed. New York, NY: Oxford University Press, 2000, pp. ix-xxvi. ISBN: 9780195109030.
+Solow, Robert M. [*Growth Theory, An Exposition*](http://nobelprize.org/nobel_prizes/economics/laureates/1987/solow-lecture.html). 5th ed. New York, NY: Oxford University Press, 2000, pp. ix-xxvi. ISBN: 9780195109030.
 
-Romer, Paul. "Endogenous Technological Change." _Journal of Political Economy_ 98, no. 5 (1990): 72-102. ([PDF – 2.8MB](https://www.nber.org/papers/w3210))
+Romer, Paul. "Endogenous Technological Change." *Journal of Political Economy* 98, no. 5 (1990): 72-102. ([PDF – 2.8MB](https://www.nber.org/papers/w3210))
 
-Jorgenson, Dale. "[U.S. Economic Growth in the Information Age](http://www.issues.org/18.1/jorgenson.html)." _Issues in Science and Technology_ 18, no. 1 (2001): 42.
+Jorgenson, Dale. "[U.S. Economic Growth in the Information Age](http://www.issues.org/18.1/jorgenson.html)." *Issues in Science and Technology* 18, no. 1 (2001): 42.
 
-Milunovich, Steven, and John M. A. Roy. _The Next Small Thing: An Introduction to Nanotechnology_. Global Securities Research and Economics Group, Merrill Lynch & Co. September 4, 2001.
+Milunovich, Steven, and John M. A. Roy. *The Next Small Thing: An Introduction to Nanotechnology*. Global Securities Research and Economics Group, Merrill Lynch & Co. September 4, 2001.
 
-Branscomb, Lewis M., and Phillip E. Auerswald. [_Between Invention and Innovation: An Analysis of Funding for Early-Stage Technology Development_](http://belfercenter.hks.harvard.edu/publication/2067/between_invention_and_innovation.html). Gaithersburg, MD: Report for National Institute of Standards and Technology, 2002.
+Branscomb, Lewis M., and Phillip E. Auerswald. [*Between Invention and Innovation: An Analysis of Funding for Early-Stage Technology Development*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2397486). Gaithersburg, MD: Report for National Institute of Standards and Technology, 2002.
