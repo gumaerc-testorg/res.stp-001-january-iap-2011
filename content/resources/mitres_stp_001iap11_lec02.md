@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to forged concensus.
 file: /courses/res-stp-001-science-policy-bootcamp-january-iap-2011/b0ea2fbb2646f1286d8e2ab5c98de237_MITRES_STP_001IAP11_lec02.pdf
+file_size: 1331731
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
