@@ -4,7 +4,7 @@ description: Decisions made by Congress in the Nation's Capitol influence scient
   research and development in the United States. Science Policy Bootcamp discusses
   the factors that drive and impact national science and technology policy. (Image
   by Adam Fagen on Flickr.)
-file: /courses/res-stp-001-science-policy-bootcamp-january-iap-2011/3317510df33f2dcf5ced0d5462fb4cf6_res-stp-001iap11.jpg
+file: /ol-ocw-studio-app/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/3317510df33f2dcf5ced0d5462fb4cf6_res-stp-001iap11.jpg
 file_size: 43420
 file_type: image/jpeg
 image_metadata:
