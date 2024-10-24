@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to economic competitiveness.
-file: /courses/res-stp-001-science-policy-bootcamp-january-iap-2011/a7f670938599acbb77f14e9cc64195dd_MITRES_STP_001IAP11_lec04.pdf
+file: /ol-ocw-studio-app/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/a7f670938599acbb77f14e9cc64195dd_MITRES_STP_001IAP11_lec04.pdf
 file_size: 805655
 file_type: application/pdf
 learning_resource_types: []

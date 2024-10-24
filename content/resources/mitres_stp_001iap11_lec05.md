@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to energy technology.
-file: /courses/res-stp-001-science-policy-bootcamp-january-iap-2011/fadc030a6b8f4dd2443ed607baf6d590_MITRES_STP_001IAP11_lec05.pdf
+file: /ol-ocw-studio-app/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/fadc030a6b8f4dd2443ed607baf6d590_MITRES_STP_001IAP11_lec05.pdf
 file_size: 385735
 file_type: application/pdf
 learning_resource_types: []
