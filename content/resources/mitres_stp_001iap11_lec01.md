@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to economic models of innovation.
-file: /courses/res-stp-001-science-policy-bootcamp-january-iap-2011/90deb79e985d97ce8770f6cdb92ff2c8_MITRES_STP_001IAP11_lec01.pdf
+file: /ol-ocw-studio-app/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/90deb79e985d97ce8770f6cdb92ff2c8_MITRES_STP_001IAP11_lec01.pdf
 file_size: 775231
 file_type: application/pdf
 learning_resource_types: []
