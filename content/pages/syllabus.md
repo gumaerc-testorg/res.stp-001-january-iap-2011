@@ -16,7 +16,7 @@ Lectures: 6 sessions / week for 1 week, 2-3 hours / session
 Instructor
 ----------
 
-[William Bonvillian](http://web.mit.edu/dc/about.html#bill), Director of MIT Washington, D.C. Office
+{{% resource_link "6d504475-6dee-48ad-b382-ec53bcc117ab" "William Bonvillian" %}}, Director of MIT Washington, D.C. Office
 
 Course Goal
 -----------
