@@ -32,11 +32,11 @@ Readings
 
 ### Required Reading
 
-Bennis, Warren, and Patricia Ward Biederman. _Organizing Genius, The Secrets of Creative Collaborative_. New York, NY: Basic Books, 1998, pp. 63-86, 196-208. ISBN: 9780201339895. \[Preview with {{% resource_link "b9d023a3-a110-4691-9aa0-645e98447972" "Google Books" %}}\]
+Bennis, Warren, and Patricia Ward Biederman. _Organizing Genius, The Secrets of Creative Collaborative_. New York, NY: Basic Books, 1998, pp. 63-86, 196-208. ISBN: 9780201339895. \[Preview with [Google Books](https://books.google.com/books?id=vD2CXOTvHmsC&printsec=frontcover#v=onepage&q&f=false)\]
 
 ### Other Readings for Class Discussions
 
-Rosen, William. _The Most Powerful Idea in the World: A Story of Steam, Industry and Invention_. New York, NY: Random House, 2010, pp. 35-39, 115-134. ISBN: 9781400067053. \[Preview with {{% resource_link "17048924-db3d-41c9-a403-4d78f5f37c03" "Google Books" %}}\]
+Rosen, William. _The Most Powerful Idea in the World: A Story of Steam, Industry and Invention_. New York, NY: Random House, 2010, pp. 35-39, 115-134. ISBN: 9781400067053. \[Preview with [Google Books](http://books.google.com/books?id=8VMGLiwlBSEC&pg=PAfrontcover)\]
 
 Evans, Harold. _They Made America – From the Steam Engine to the Search Engine: Two Centuries of American Innovators_. Boston, MA: Little, Brown & Company, 2004, pp. 152-171, 420-231. ISBN: 9780316277662.
 
@@ -46,4 +46,4 @@ Hoddeson, Lillian, and Vicki Daitch. _True Genius – The Life and Science of Jo
 
 Morrow, Daniel S., and Dr. J. Craig Venter. _Oral History_. Video interview transcript. ComputerWorld Honors Program, 2003, pp. 3-53, 56-58.
 
-Schein, Edgar. _DEC Is Dead, Long Live DEC: The Lasting Legacy of Digital Equipment Corporation_. San Francisco, CA: Berrett-Kohler Publishers, 2004, pp. 123-169. ISBN: 9781576753057. \[Preview with {{% resource_link "36368ac7-82e4-4bfc-8cd2-1f054eca812a" "Google Books" %}}\]
+Schein, Edgar. _DEC Is Dead, Long Live DEC: The Lasting Legacy of Digital Equipment Corporation_. San Francisco, CA: Berrett-Kohler Publishers, 2004, pp. 123-169. ISBN: 9781576753057. \[Preview with [Google Books](http://books.google.com/books?id=gJRFXz8v0fMC&printsec=frontcover&dq=Edgar+schein+dec+is+dead+lon&source=bl&ots=F-%20_Pp4mJDc&sig=Cmr5P4IIw4Oq7IONtkgALjOp2o&hl=en&ei=ZvnnTL7gI8SclgequY2iCw&sa=X&oi=book_result&ct=result&resnum=2&sqi=2&ved=0CBwQ6AEwAQ#v=onepage&q&f=false)\]
