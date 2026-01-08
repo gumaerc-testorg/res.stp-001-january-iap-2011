@@ -11,8 +11,7 @@ image_metadata:
   caption: Decisions made by Congress in the Nation's Capitol influence scientific
     research and development in the United States. Science Policy Bootcamp discusses
     the factors that drive and impact national science and technology policy. (Image
-    by {{% resource_link "bcafbf66-ed03-4b3d-a05e-46f99dae6756" "Adam Fagen" %}} on
-    Flickr.)
+    by [Adam Fagen](http://www.flickr.com/photos/afagen/515588510/) on Flickr.)
   credit: ''
   image-alt: Image of the US Capitol Building, Washington DC.
 learning_resource_types: []
